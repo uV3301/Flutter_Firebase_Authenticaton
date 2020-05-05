@@ -11,7 +11,6 @@ The app is integrated with Firebase's authentication service.
 ## How to use
 
 > ### Disclaimer
------
 Before using the app, you should know how to integrate your flutter app with Firebase
 + Follow the [Link 1](https://codelabs.developers.google.com/codelabs/flutter-firebase/#5) and continuing [Link 2](https://codelabs.developers.google.com/codelabs/flutter-firebase/#6) to setup your Firebase Project
 
